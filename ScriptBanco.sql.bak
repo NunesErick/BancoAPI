@@ -1,0 +1,22 @@
+create database Banco
+go
+use Banco
+create table Contas
+(id uniqueidentifier DEFAULT NEWID() PRIMARY KEY,
+saldo decimal,
+chequeEspecial decimal,
+situacao bit,
+dsDescricao varchar(max),
+dtCriacao datetime NOT NULL)
+go
+create table Transferencias
+(
+id uniqueidentifier DEFAULT NEWID() PRIMARY KEY,
+idContaOrigem uniqueidentifier foreign key references Contas(id),
+idContaDestino uniqueidentifier foreign key references Contas(id),
+valor decimal NOT NULL,
+dtTransf datetime NOT NULL,
+situacao bit,
+erro varchar(max)
+)
+go

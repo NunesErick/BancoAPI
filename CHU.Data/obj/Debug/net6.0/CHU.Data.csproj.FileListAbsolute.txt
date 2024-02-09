@@ -1,0 +1,17 @@
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\bin\Debug\net6.0\CHU.Data.deps.json
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\bin\Debug\net6.0\CHU.Data.dll
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\bin\Debug\net6.0\CHU.Data.pdb
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\obj\Debug\net6.0\CHU.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\obj\Debug\net6.0\CHU.Data.AssemblyInfoInputs.cache
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\obj\Debug\net6.0\CHU.Data.AssemblyInfo.cs
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\obj\Debug\net6.0\CHU.Data.csproj.CoreCompileInputs.cache
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\obj\Debug\net6.0\CHU.Data.dll
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\obj\Debug\net6.0\refint\CHU.Data.dll
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\obj\Debug\net6.0\CHU.Data.pdb
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\obj\Debug\net6.0\ref\CHU.Data.dll
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\obj\Debug\net6.0\CHU.Data.csproj.AssemblyReference.cache
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\bin\Debug\net6.0\CHU.Domain.dll
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\bin\Debug\net6.0\CHU.Domain.pdb
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\obj\Debug\net6.0\CHU.Data.csproj.CopyComplete
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\bin\Debug\net6.0\CHU.Infrastructure.dll
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Data\bin\Debug\net6.0\CHU.Infrastructure.pdb

@@ -1,0 +1,12 @@
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Domain\obj\Debug\net6.0\CHU.Domain.csproj.AssemblyReference.cache
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Domain\obj\Debug\net6.0\CHU.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Domain\obj\Debug\net6.0\CHU.Domain.AssemblyInfoInputs.cache
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Domain\obj\Debug\net6.0\CHU.Domain.AssemblyInfo.cs
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Domain\obj\Debug\net6.0\CHU.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Domain\bin\Debug\net6.0\CHU.Domain.deps.json
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Domain\bin\Debug\net6.0\CHU.Domain.dll
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Domain\bin\Debug\net6.0\CHU.Domain.pdb
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Domain\obj\Debug\net6.0\CHU.Domain.dll
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Domain\obj\Debug\net6.0\refint\CHU.Domain.dll
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Domain\obj\Debug\net6.0\CHU.Domain.pdb
+C:\Projetos pessoais\BancoApi\APIBancoChu\CHU.Domain\obj\Debug\net6.0\ref\CHU.Domain.dll
